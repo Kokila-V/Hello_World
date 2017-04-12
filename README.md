@@ -1,2 +1,2 @@
 # Hello_World
-Demo project  
+This is a simple Demo project  
